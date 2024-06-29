@@ -1,0 +1,28 @@
+
+.events-page-hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7vw;
+    width: 70vw;
+    height: 80vh;
+    flex-wrap: wrap;
+    /* background-color: red; */
+    margin: 9vh;
+}
+
+/* .evt-crd{
+    width: 100px;
+    height: 200px;
+} */
+
+.container-evt{
+    background-color: rgb(211, 99, 48);
+    /* background-color: rebeccapurple; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    /* height: auto; */
+}

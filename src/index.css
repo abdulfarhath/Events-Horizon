@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+/* index.css */
+
+/* Remove underline from all links */
+a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  /* Optionally style links further */
+  a:hover {
+    /* Example: Add a different color on hover */
+    color: #ff631a; /* Adjust color as needed */
+  }
+  

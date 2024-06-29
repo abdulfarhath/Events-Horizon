@@ -1,0 +1,29 @@
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 2px solid black;
+}
+.nav-ele{
+    font-size: medium;
+}
+.nav-logo-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.nav-logo{
+    background-image: url(../assets/LOGO.jpg);
+    height: 8vh;
+    width: 20vw;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 6vw;
+}
+.nav-logo-container h1{
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+}
